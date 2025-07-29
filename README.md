@@ -14,7 +14,10 @@ Im currently study <br>Anime Enthusiast: I’m a big fan of anime! Some of my fa
 - *Tailwind CSS*
 - *Bootstrap*
 - *React Native*
----
+
+## 🌱 Currently Learning
+
+- Learn and Master in **Python** and **React Native** for cross-platform development.
 <!-- ### 📫 How to Reach Me 
 - [LinkedIn](https://www.linkedin.com/in/TusharTikkiwal)
 - [Email](ttikkiwal@gmail.com) --> 
