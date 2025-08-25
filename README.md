@@ -11,9 +11,10 @@ Im currently study <br>Anime Enthusiast: I’m a big fan of anime! Some of my fa
 
 ### 🛠 Frameworks
 - *React*
+- *React Native*
 - *Tailwind CSS*
 - *Bootstrap*
-- *React Native*
+
 
 ## 🌱 Currently Learning
 
